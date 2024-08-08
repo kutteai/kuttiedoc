@@ -1,6 +1,6 @@
 {
     "name": "KutteAi Token",
     "symbol": "KUA",
-    "description": "Example token from Solana Making a Token guide.",
+    "description": "KutteAi",
     "image": "https://raw.githubusercontent.com/kutteai/kuttiedoc/main/coin.png"
   }
